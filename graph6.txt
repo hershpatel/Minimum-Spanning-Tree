@@ -1,0 +1,53 @@
+10
+F
+H
+A
+B
+C
+G
+D
+E
+I
+J
+F H 10
+F I 7
+H F 10
+H G 1
+H B 3
+H E 10
+H A 6
+A D 7
+A H 6
+A E 2
+A I 7
+A J 1
+B H 3
+B E 7
+B J 10
+C G 4
+C D 2
+C I 8
+C J 1
+G D 10
+G H 1
+G J 8
+G C 4
+D G 10
+D E 6
+D A 7
+D C 2
+E H 10
+E B 7
+E D 6
+E A 2
+E I 1
+E J 7
+I F 7
+I E 1
+I A 7
+I C 8
+J G 8
+J A 1
+J E 7
+J B 10
+J C 1
